@@ -71,3 +71,5 @@ También se incluye otra serie de archivos extra:
 * Las propias infografías como resultado de estas.
 * Una lista de anglicismos en `anglicisms.txt`
 * El borrador del artículo en PDF.
+
+> Artículo y herramientas realizadas por Pavel Razgovorov (pavel.razgovorov@i2e.es) y David Tomás Díaz (dtomas@dlsi.ua.es)
